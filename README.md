@@ -1,6 +1,6 @@
 # 🪧 Google Colab 환경에서 Kaggle 필사를 위한 환경 설정 가이드
 
-이 repository는 Google Colab 환경에서 Kaggle 필사를 효율적으로 진행하기 위한 설정 방법과  
+이 repository는 Google Colab(구글 코랩) 환경에서 Kaggle(캐글) 필사를 효율적으로 진행하기 위한 설정 방법과  
 재현 가능한 분석 환경 템플릿을 제공합니다.
 
 세션이 끊기거나 다음 날 다시 Colab에서 작업할 때도, 효율적으로 이어서 필사할 수 있도록 자동화된 코드 템플릿도 함께 포함되어 있습니다.
