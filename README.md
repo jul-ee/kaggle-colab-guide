@@ -1,16 +1,13 @@
 # 🪧 Google Colab 환경에서 Kaggle 필사를 위한 환경 설정 가이드
 
-이 repository는 Google Colab(구글 코랩) 환경에서 Kaggle(캐글) 필사를 효율적으로 진행하기 위한 설정 방법과  
-재현 가능한 분석 환경 템플릿을 제공합니다.
+이 repository는 Google Colab(구글 코랩) 환경에서 Kaggle(캐글) 필사를 효율적으로 진행하기 위한 설정 방법과 재현 가능한 분석 환경을 제공합니다. 세션이 끊기거나 다음 날 다시 Colab에서 작업할 때, 효율적으로 이어서 필사할 수 있도록 자동화한 코드 템플릿도 함께 포함되어 있습니다.
 
-세션이 끊기거나 다음 날 다시 Colab에서 작업할 때도, 효율적으로 이어서 필사할 수 있도록 자동화된 코드 템플릿도 함께 포함되어 있습니다.
-
-📌 Kaggle 환경이 낯설거나 Colab에서 Kaggle 데이터를 처음 다뤄보는 분들께 특히 유용합니다.
+Kaggle 환경이 낯설거나 Colab에서 Kaggle 데이터를 처음 다뤄보는 분들께 도움이 되고자 작성하였습니다.
 
 > [참고]
 > 이 가이드는 [Kaggle Titanic](https://www.kaggle.com/c/titanic) 대회의 커널을 기반으로 작성되었습니다.
 
-> 자세한 설명과 작성 배경은 [velog 포스팅](https://velog.io/@jul-ee/Kaggle-구글-코랩에서-캐글-필사-시작하기)에서 확인할 수 있습니다.
+> 자세한 설명과 작성 배경은 [velog.io/@jul-ee](https://velog.io/@jul-ee/Kaggle-구글-코랩에서-캐글-필사-시작하기)에서 확인할 수 있습니다.
 
 <br>
 
